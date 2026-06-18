@@ -1,4 +1,4 @@
-package io.github.petodair.bloco_blog_api;
+package br.com.petercode.bloco_blog_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

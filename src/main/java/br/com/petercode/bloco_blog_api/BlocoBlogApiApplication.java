@@ -1,4 +1,4 @@
-package io.github.petodair.bloco_blog_api;
+package br.com.petercode.bloco_blog_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
